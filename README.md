@@ -1,4 +1,4 @@
-# Ignition_Kernel_Growth_Modeling
+# Ignition Kernel Growth Modeling using Machine Learning
 
 This repository contains the code used for our research paper on: "Assessment of Machine Learning Approaches for Predictive Modeling of Plasma-Assisted Ignition Kernel Growth ". 
 
